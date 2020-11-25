@@ -1,3 +1,4 @@
-# 目录
+# Table of contents
 
-- [欢迎](README.md)
+* [Initial page](README.md)
+
