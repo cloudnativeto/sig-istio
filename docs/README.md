@@ -8,9 +8,9 @@ description: 云原生社区 Istio SIG
 
 ### 加入 Istio SIG
 
-请填写[申请表](https://wj.qq.com/s2/7309386/b0f5/)加入微信交流群。
+请填写[申请表](https://wj.qq.com/s2/7309386/b0f5/)加入微信交流群和参与社区活动。
 
 ### 如何提问
 
-有关于 Istio 的问题请[提交 Issue](https://github.com/cloudnativeto/sig-istio/issues/new) 后将链接发到微信群中讨论。
+若你有关于 Istio 的问题请[提交 Issue](https://github.com/cloudnativeto/sig-istio/issues/new)，并将 Issue 链接发到 Istio SIG 的微信群中讨论。
 
