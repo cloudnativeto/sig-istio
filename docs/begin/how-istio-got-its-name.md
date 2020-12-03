@@ -1,5 +1,5 @@
 ---
-description: 本文将想你介绍 Istio 何以得名？
+description: 本文将向你介绍 Istio 何以得名？
 ---
 
 # Istio 名称的来历
