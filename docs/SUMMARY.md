@@ -5,4 +5,8 @@
 ## 开始 <a id="begin"></a>
 
 * [你是否真的需要 Istio？](begin/do-you-really-need-istio.md)
+* [Istio 名称的来历](begin/how-istio-got-its-name.md)
+
+## Istio 版本追踪 <a id="release"></a>
+ * [Istio 0.1](release/0-1.md)
 
