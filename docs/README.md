@@ -14,3 +14,8 @@ description: 云原生社区 Istio SIG
 
 若你有关于 Istio 的问题请[提交 Issue](https://github.com/cloudnativeto/sig-istio/issues/new)，并将 Issue 链接发到 Istio SIG 的微信群中讨论。
 
+## 联系
+
+**负责人**
+
+- [宋净超（Jimmy Song）](https://github.com/rootsongjc)
