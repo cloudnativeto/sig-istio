@@ -27,3 +27,7 @@
 * [Istio 1.6——迈向极简主义](release/16.md)
 * [Istio 1.7——进击的追风少年](release/17.md)
 * [Istio 1.8——用户至上的选择](release/18.md)
+
+## 社区活动 <a id="event"></a>
+
+* [Istio 官方文档翻译](event/istio-doc-translation.md)
