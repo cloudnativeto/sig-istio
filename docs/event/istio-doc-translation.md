@@ -14,7 +14,7 @@
 下面是云原生社区 Istio Doc WG 的负责人：
 
 - [宋净超（@rootsongjc）](https://github.com/rootsongjc)
-- [刘齐钧（@kebe7jun）](https://github.com/kebe7jun)
+- [刘齐均（@kebe7jun）](https://github.com/kebe7jun)
 - [殷龙飞（@loverto）](https://github.com/loverto)
 - [邱世达（@SataQiu）](https://github.com/SataQiu)
 
