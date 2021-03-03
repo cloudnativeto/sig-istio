@@ -31,3 +31,4 @@
 * [Istio 1.6——迈向极简主义](release/16.md)
 * [Istio 1.7——进击的追风少年](release/17.md)
 * [Istio 1.8——用户至上的选择](release/18.md)
+* [Istio 1.9——提升 Day2 体验](release/19.md)
