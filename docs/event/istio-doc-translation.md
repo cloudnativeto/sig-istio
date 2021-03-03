@@ -178,7 +178,7 @@ Refused to apply style from 'http://localhost:1313/css/all.css' because its MIME
 
 给标题添加的锚点完全和官方英文的一致，报类似如下错误：
 
-![anchor err](https://tva1.sinaimg.cn/large/e6c9d24ely1go5rvst4d0j21he0p8tec.jpg)
+![错误截图](https://tva1.sinaimg.cn/large/e6c9d24ely1go5rvst4d0j21he0p8tec.jpg)
 
 主要的原因是在对于这些专有名词在`.spelling` 文件中只定义了大写而没有定义小写导致。此时，请参考上文锚点规范书写锚点。
 
