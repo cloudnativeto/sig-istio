@@ -4,8 +4,8 @@
 
 ## 开始 <a id="begin"></a>
 
-* [你是否真的需要 Istio？](begin/do-you-really-need-istio.md)
 * [Istio 名称的来历](begin/how-istio-got-its-name.md)
+* [你是否真的需要 Istio？](begin/do-you-really-need-istio.md)
 * [使用 Istio 前的考虑要素](begin/before-you-begin.md)
 
 ## 社区活动 <a id="event"></a>

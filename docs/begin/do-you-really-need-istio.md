@@ -1,5 +1,5 @@
 ---
-description: 在开始使用 Istio 之前，请先考虑以下因素。
+description: 在开始学习和使用 Istio 之前，你不妨先考虑以下问题。
 ---
 
 # 你是否真的需要 Istio？

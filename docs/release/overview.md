@@ -27,6 +27,7 @@ description: 本页面是对 Istio 历史版本变更追踪的概述。
 | **1.6**  | 2020-05-21   | 进一步整合了 istiod，使用 istioctl install 命令来替代 manifest apply 的安装过程。 | 无                                                           | 新增了 WorkloadEntry。                                       | 无                       | 迈向极简主义，Istiod 更加完整，也彻底移除了 Citadel、Sidecar Injector 和 Galley。 |
 | **1.7**  | 2020-08-21   | 对 istioctl 命令进行了改进，增强易用性。                     | 无                                                           | 无                                                           | 无                       | 增强易用性。                                                 |
 | **1.8**  | 2020-11-18   | 正式弃用 mixer，在 sidecar 中增加了智能 DNS 代理，重新回归到 helm 安装。 | 不再支持 consul                                              | 新增了 WorkloadGroup。                                       | 无                       | 进一步完善了对虚拟机的支持。                                 |
+| **1.9**  | 2021-02-09   | 注重改善 Day2 体验。                                         | 无                                                           | 无                                                           | 无                       | 没有重大功能，主要是稳定 API。                               |
 
 ## 重大版本
 
