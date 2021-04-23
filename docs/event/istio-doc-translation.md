@@ -78,14 +78,14 @@ Press Ctrl+C to stop
 在正确安装 Docker 后，运行下面的命令下载镜像：
 
 ```bash
-docker pull gcr.io/istio-testing/build-tools:master-2021-03-01T22-30-49
+docker pull gcr.io/istio-testing/build-tools:master-2021-04-12T17-40-14
 ```
 
 如果您的网络环境无法访问此资源，可以执行下面的命令下载镜像的镜像：
 
 ```bash
-docker pull jimmysong/istio-testing-build-tools:master-2021-03-01T22-30-49
-docker tag jimmysong/istio-testing-build-tools:master-2021-03-01T22-30-49 gcr.io/istio-testing/build-tools:master-2021-03-01T22-30-49
+docker pull jimmysong/istio-testing-build-tools:master-2021-04-12T17-40-14
+docker tag jimmysong/istio-testing-build-tools:master-2021-04-12T17-40-14 gcr.io/build-tools:master-2021-04-12T17-40-14
 ```
 
 然后在 [istio.io 仓库的根目录](https://github.com/istio/istio.io)下，执行下面的命令启动 web 服务：
