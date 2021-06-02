@@ -33,9 +33,11 @@
 * [Istio 1.7——进击的追风少年](release/17.md)
 * [Istio 1.8——用户至上的选择](release/18.md)
 * [Istio 1.9——提升 Day2 体验](release/19.md)
+* [Istio 1.10——继续改善 Day2 操作并改版了官网](release/110.md)
 
 ## Istio 大咖说<a id="big-talk"></a>
 
 * [栏目介绍](big-talk/overview.md)
 * [第 1 期：Istio 开源四周年回顾与展望](big-talk/ep01.md)
 * [第 2 期：从微服务架构到 Istio——架构升级实践分享](big-talk/ep02.md)
+
