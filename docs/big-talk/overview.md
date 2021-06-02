@@ -13,5 +13,4 @@ description: 《Istio 大咖说》栏目简介。
 
 - 互动文档地址：[腾讯文档](https://docs.qq.com/doc/DRUZSbHVkck9Wc0V4)
 
-- 幻灯片归档地址：[GitHub](https://github.com/tetratelabs/istio-weekly)
-
+- 幻灯片归档地址：[GitHub](https://github.com/tetratelabs/istio-weekly/blob/main/istio-big-talk/playlist.md)
