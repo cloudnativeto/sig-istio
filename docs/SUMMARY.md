@@ -40,4 +40,4 @@
 * [栏目介绍](big-talk/overview.md)
 * [第 1 期：Istio 开源四周年回顾与展望](big-talk/ep01.md)
 * [第 2 期：从微服务架构到 Istio——架构升级实践分享](big-talk/ep02.md)
-
+* [第 3 期：如何让 Istio 变得更为高效和智能](big-talk/ep03.md)
