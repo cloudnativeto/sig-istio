@@ -43,3 +43,4 @@
 * [第 3 期：如何让 Istio 变得更为高效和智能](big-talk/ep03.md)
 * [第 4 期：如何让 Istio 在大规模生产环境落地](big-talk/ep04.md)
 * [第 5 期：腾讯云服务网格生产落地最佳实践](big-talk/ep05.md)
+* [第 6 期：Envoy Proxy 在线答疑](big-talk/ep06.md)
