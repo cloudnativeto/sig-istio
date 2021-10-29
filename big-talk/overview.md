@@ -10,7 +10,5 @@ description: 《Istio 大咖说》栏目简介。
 
 - 直播间地址：[Bilibili - 《Istio 大咖说》](https://live.bilibili.com/23095515)
 - 历史视频回看：[Bilibili - IstioServiceMesh](https://space.bilibili.com/1698576814)
-
 - 互动文档地址：[腾讯文档](https://docs.qq.com/doc/DRUZSbHVkck9Wc0V4)
-
 - 幻灯片归档地址：[GitHub](https://github.com/tetratelabs/istio-weekly/blob/main/istio-big-talk/playlist.md)
