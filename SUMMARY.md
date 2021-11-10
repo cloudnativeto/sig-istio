@@ -2,17 +2,17 @@
 
 * [欢迎](README.md)
 
-## 开始 <a id="begin"></a>
+## 开始
 
 * [Istio 名称的来历](begin/how-istio-got-its-name.md)
 * [你是否真的需要 Istio？](begin/do-you-really-need-istio.md)
 * [使用 Istio 前的考虑要素](begin/before-you-begin.md)
 
-## 社区活动 <a id="event"></a>
+## 社区活动 
 
 * [Istio 官方文档翻译](event/istio-doc-translation.md)
 
-## Istio 版本追踪 <a id="release"></a>
+## Istio 版本追踪 
 
 * [概述](release/overview.md)
 * [Istio 0.1——开启 Service Mesh 的新纪元](release/01.md)
@@ -35,7 +35,7 @@
 * [Istio 1.9——提升 Day2 体验](release/19.md)
 * [Istio 1.10——继续改善 Day2 操作并改版了官网](release/110.md)
 
-## Istio 大咖说<a id="big-talk"></a>
+## Istio 大咖说
 
 * [栏目介绍](big-talk/overview.md)
 * [第 1 期：Istio 开源四周年回顾与展望](big-talk/ep01.md)
@@ -45,3 +45,4 @@
 * [第 5 期：腾讯云服务网格生产落地最佳实践](big-talk/ep05.md)
 * [第 6 期：Envoy Proxy 在线答疑](big-talk/ep06.md)
 * [第 7 期：基于 Envoy/Istio 的云原生 API 网关 —— 开源项目 Hango 的设计与实现](big-talk/ep07.md)
+* [第 8 期：小红书服务网格大规模落地经验分享](big-talk/ep08.md)
