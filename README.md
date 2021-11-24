@@ -9,4 +9,4 @@
 
 ## 联系
 
-请联系**负责人**[宋净超（Jimmy Song）](https://jimmysong.io)。
+请联系负责人：[宋净超（Jimmy Song）](https://jimmysong.io)。

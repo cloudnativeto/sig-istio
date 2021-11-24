@@ -34,6 +34,8 @@
 * [Istio 1.8——用户至上的选择](release/18.md)
 * [Istio 1.9——提升 Day2 体验](release/19.md)
 * [Istio 1.10——继续改善 Day2 操作并改版了官网](release/110.md)
+* [Istio 1.11——使用 CNI 取代 Istio Init 容器](release/111.md)
+* [Isito 1.12——支持 WebAssembly 插件管理](release/112.md)
 
 ## Istio 大咖说
 
