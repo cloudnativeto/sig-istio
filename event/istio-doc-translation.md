@@ -17,6 +17,7 @@
 - [刘齐均（@kebe7jun）](https://github.com/kebe7jun)
 - [殷龙飞（@loverto）](https://github.com/loverto)
 - [邱世达（@SataQiu）](https://github.com/SataQiu)
+- [刘训灼（@Xunzhuo）](https://github.com/Xunzhuo)
 
 在参与过程中有任何问题可以与他们联系。
 
